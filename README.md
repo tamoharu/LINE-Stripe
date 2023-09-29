@@ -1,5 +1,7 @@
 # LINE-Stripe
 
+[こちらの記事](https://zenn.dev/tamoto/articles/db46bfb1ee354b)で詳しく解説しています
+
 ### Required
 
 - Node.js v18
